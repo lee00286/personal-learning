@@ -13,3 +13,9 @@ Please refer to the [README](investigate-data-fetchng-strategy/README.md) for mo
 This project investigates how Node.js handles concurrent requests using a single-threaded event loop and non-blocking I/O.
 
 Please refer to the [README](investigate-event-loop/README.md) for more details.
+
+## investigate-hash-table
+
+This project investigates the internal mechanics of data structures like `Object` and `Map` in JavaScript and manage data efficiently using hash functions. It also compares hash algorithms and implement a collision-resistant data structure.
+
+Please refer to the [README](investigate-hash-table/README.md) for more details.
