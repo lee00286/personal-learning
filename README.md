@@ -19,3 +19,9 @@ Please refer to the [README](investigate-event-loop/README.md) for more details.
 This project investigates the internal mechanics of data structures like `Object` and `Map` in JavaScript and manage data efficiently using hash functions. It also compares hash algorithms and implement a collision-resistant data structure.
 
 Please refer to the [README](investigate-hash-table/README.md) for more details.
+
+# investigate-rsc-client-component
+
+This project investigates the optimization of bundle size with Server Components (RSC) and component composition. It also analyzes the impact of using RSC and Client Components on the performance of Next.js applications.
+
+Please refer to the [README](investigate-rsc-client-component/README.md) for more details.
