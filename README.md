@@ -25,3 +25,9 @@ Please refer to the [README](003-investigate-hash-table/README.md) for more deta
 This project investigates the optimization of bundle size with Server Components (RSC) and component composition. It also analyzes the impact of using RSC and Client Components on the performance of Next.js applications.
 
 Please refer to the [README](004-investigate-rsc-client-component/README.md) for more details.
+
+## 005-monorepo-turborepo
+
+This project explores the difference between polyrepo and monorepo to manage multiple projects. It uses Turborepo to explore the monorepo.
+
+Please refer to the [README](005-monorepo-turborepo/README.md) for more details.
